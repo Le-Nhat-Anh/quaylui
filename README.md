@@ -1,4 +1,4 @@
-#backtracking
+# backtracking
 int x[100];
 int n,k;
 --------------------------------------------------
